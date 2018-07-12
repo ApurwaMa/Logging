@@ -1,0 +1,8 @@
+C:\Code\LoggingProject\LoggingProject\bin\Debug\LoggingProject.exe.config
+C:\Code\LoggingProject\LoggingProject\bin\Debug\LoggingProject.exe
+C:\Code\LoggingProject\LoggingProject\bin\Debug\LoggingProject.pdb
+C:\Code\LoggingProject\LoggingProject\bin\Debug\log4net.dll
+C:\Code\LoggingProject\LoggingProject\bin\Debug\log4net.xml
+C:\Code\LoggingProject\LoggingProject\obj\Debug\LoggingProject.exe
+C:\Code\LoggingProject\LoggingProject\obj\Debug\LoggingProject.pdb
+C:\Code\LoggingProject\LoggingProject\bin\Debug\Elmah.dll
