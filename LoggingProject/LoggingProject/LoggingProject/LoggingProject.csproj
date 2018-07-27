@@ -52,6 +52,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\AbstractFactory.cs" />
+    <Compile Include="Models\AbstractLogging.cs" />
+    <Compile Include="Models\Client.cs" />
+    <Compile Include="Models\ConcreteFactory.cs" />
+    <Compile Include="Models\ElmahLogging.cs" />
+    <Compile Include="Models\EventViewerLogging.cs" />
+    <Compile Include="Models\FileLogging.cs" />
+    <Compile Include="Models\FileStreamLogging.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

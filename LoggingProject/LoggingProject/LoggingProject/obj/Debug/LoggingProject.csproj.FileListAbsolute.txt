@@ -6,3 +6,13 @@ C:\Code\LoggingProject\LoggingProject\bin\Debug\log4net.xml
 C:\Code\LoggingProject\LoggingProject\obj\Debug\LoggingProject.exe
 C:\Code\LoggingProject\LoggingProject\obj\Debug\LoggingProject.pdb
 C:\Code\LoggingProject\LoggingProject\bin\Debug\Elmah.dll
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\obj\Debug\LoggingProject.csproj.CoreCompileInputs.cache
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\obj\Debug\LoggingProject.exe
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\obj\Debug\LoggingProject.pdb
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\bin\Debug\LoggingProject.exe.config
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\bin\Debug\LoggingProject.exe
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\bin\Debug\LoggingProject.pdb
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\bin\Debug\Elmah.dll
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\bin\Debug\log4net.dll
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\bin\Debug\log4net.xml
+C:\Users\agupta1\Code\Logging\Logging\LoggingProject\LoggingProject\LoggingProject\obj\Debug\LoggingProject.csproj.CopyComplete
